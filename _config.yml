@@ -1,11 +1,11 @@
 # Site settings
 author: Benito Galvez
-title: 
+title: Making My Software Engineering Dream into a Reality
 header-img: img/home-bg.png
 email: mystwalker131@gmail.com
 copyright_name: Benito Galvez
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Software Engineering school experiences
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Mystwalker131
